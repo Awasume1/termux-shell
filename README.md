@@ -1,0 +1,2 @@
+# termux-shell
+For hacking
